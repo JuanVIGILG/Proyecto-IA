@@ -1,0 +1,3 @@
+#!/bin/bash
+sshpass -p "270714" ssh -l uth 192.168.0.43 "sudo /./home/uth/on27
+.sh"
